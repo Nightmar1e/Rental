@@ -24,9 +24,7 @@ function Testimonials() {
                   <i className="fa-solid fa-quote-right"></i>
                 </span>
                 <p>
-                  "We rented a car from this website and had an amazing
-                  experience! The booking was easy and the rental rates were
-                  very affordable. "
+                  "Booking was a breeze, cars were spotless, and prices were reasonable. Highly recommend this car rental service!" "
                 </p>
                 <div className="all-testimonials__box__name">
                   <div className="all-testimonials__box__name__profile">
@@ -44,8 +42,7 @@ function Testimonials() {
                   <i className="fa-solid fa-quote-right"></i>
                 </span>
                 <p>
-                  "The car was in great condition and made our trip even better.
-                  Highly recommend for this car rental website!"
+                  "Variety of vehicles and excellent customer service make this car rental my top choice. Reliable and affordable!"
                 </p>
                 <div className="all-testimonials__box__name">
                   <div className="all-testimonials__box__name__profile">

@@ -9,8 +9,7 @@ function Footer() {
                 <span>CAR</span> Rental
               </li>
               <li>
-                We offers a big range of vehicles for all your driving needs. We
-                have the perfect car to meet your needs.
+              We offer a diverse range of vehicles to meet all your driving needs, with the perfect car for you.
               </li>
               <li>
                 <a href="tel:123456789">
@@ -28,7 +27,7 @@ function Footer() {
                 </a>
               </li>
 
-              <li>
+              {/* <li>
                 <a
                   style={{ fontSize: "14px" }}
                   target="_blank"
@@ -37,7 +36,7 @@ function Footer() {
                 >
                   Design by XpeedStudio
                 </a>
-              </li>
+              </li> */}
             </ul>
 
             <ul className="footer-content__2">
@@ -80,6 +79,7 @@ function Footer() {
             </ul>
           </div>
         </div>
+        {/* <div className="foot">All Rights Reserved</div> */}
       </footer>
     </>
   );
